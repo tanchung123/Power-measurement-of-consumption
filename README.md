@@ -1,6 +1,7 @@
 # Power Measurement of Consumption
 This project counts how many times the LED blinks within one hour.  
 Each pulse from the power meter represents 1 Wh (1 watt-hour) of energy consumption.
+The light signal will be converted into ADC, GPIO output and interrput, delivered to realterm by Uart.
 ## MCU
 STM32 NUCLEO-L152RE  
 Bare-metal development using CMSIS
