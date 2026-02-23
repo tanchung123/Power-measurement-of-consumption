@@ -20,3 +20,4 @@ Bare-metal development using CMSIS
 The program measures the time (in seconds) when the LED is ON and counts how many pulses occur within one hour.
 The system can accurately measure consumption from 0 to 3600 Wh.  
 Measurements above 3600 Wh may no longer be accurate due to system limitations.
+Start by pressing reset on Nucleo-L152RE
