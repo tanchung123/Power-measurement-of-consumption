@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm3.h:1452:22:NVIC_EnableIRQ	1
+../src/nucleo152start.h:1:6:SetSysClock	7
+../src/main.c:47:5:main	4
+../src/main.c:156:6:timer5_init	1
+../src/main.c:167:6:EXTI9_5_init	1
+../src/main.c:180:6:EXTI9_5_IRQHandler	2
+../src/main.c:209:6:pa10_init	1
+../src/main.c:215:6:adc_A0_init	1
+../src/main.c:225:5:read_A0	2
+../src/main.c:299:6:USART2_Init	1
+../src/main.c:314:6:USART2_write	2
+../src/main.c:321:6:USART2_bufWrite	2
+../src/main.c:328:6:USART2_intWrite	3
+../src/main.c:341:6:USART2_read	2
+../src/main.c:371:6:delay_Ms	3

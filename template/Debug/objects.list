@@ -1,0 +1,5 @@
+"./src/main.o"
+"./src/startup_stm32l152xe.o"
+"./src/syscalls.o"
+"./src/system_stm32l1xx.o"
+"./src/tiny_printf.o"
